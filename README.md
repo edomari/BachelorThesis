@@ -1,5 +1,5 @@
 # BachelorThesis
-Material created during the creation of my bachelor's thesis, concerning the performance analysis and expressiveness of Intrusion Detection System rules generated in LUA language for industrial scenarios.
+Material created during my bachelor's thesis creation, regarding the performance analysis and expressiveness of Intrusion Detection System rules generated in LUA language for industrial scenarios.
 
 ## How to use the project
 1. Open `project` folder.
